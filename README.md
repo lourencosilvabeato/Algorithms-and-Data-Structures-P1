@@ -87,3 +87,4 @@ java -cp bin Main
 - **Tomás Sousa** (68302) — tsm.sousa@campus.fct.unl.pt
 
 FCT NOVA — Algorithms and Data Structures, 2024/2025
+
