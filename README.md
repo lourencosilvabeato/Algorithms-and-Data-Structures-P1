@@ -81,3 +81,9 @@ java -cp bin Main
 | `CE` | List railways passing through a station |
 | `LC` | List all trains at a station |
 | `TA` | Terminate application (saves state to disk) |
+
+## Authors
+- **Lourenço Beato** (68461) — lm.beato@campus.fct.unl.pt
+- **Tomás Sousa** (68302) — tsm.sousa@campus.fct.unl.pt
+
+FCT NOVA — Algorithms and Data Structures, 2024/2025
